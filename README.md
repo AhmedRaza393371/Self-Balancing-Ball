@@ -1,14 +1,13 @@
 
 # Project Title: Self-Balancing Ball
-
-
-
 ## Introduction
 Welcome to the Self Balancing Ball project! This initiative aims to create a dynamically stable ball using robotics and control algorithms. The project focuses on achieving balance through precise control mechanisms, making the ball self-adjust and maintain stability during motion.
 
 ## Objective
 The primary goal of this project is to design and implement a self-balancing ball that demonstrates stability control in real-world scenarios. By leveraging sensors, actuators, and advanced control algorithms, we aim to create a platform that showcases the potential of autonomous balance in a compact, spherical form.
 
+## PID Controller
+A PID controller is an instrument used in industrial control applications to regulate temperature, flow, pressure, speed and other process variables. PID (proportional integral derivative) controllers use a control loop feedback mechanism to control process variables and are the most accurate and stable controller.
 
 ## Components
 ### Servo Motor:
@@ -23,6 +22,14 @@ Arduino UNO is a low-cost, flexible, and  easy-to-use programmable opensource m
 boards, Arduino shields, Raspberry Pi boards and can control relays, LEDs, servos, and motors as an output.
 
 
+## Proteus Simulation
+![image](https://github.com/AhmedRaza393371/Self-Balancing-Ball/assets/145160224/41cc93e1-8b17-4d5b-b1bd-722976bb9565)
+
+## Project Overview
+![image](https://github.com/AhmedRaza393371/Self-Balancing-Ball/assets/145160224/34da407c-c1d8-469e-ba75-f018e654b636)
+![image](https://github.com/AhmedRaza393371/Self-Balancing-Ball/assets/145160224/aff20ba5-c76c-402a-8adf-7382f22a9d4f)
+
+
 ## Referrences
 1. Madhumitha, G., Srividhya, R., Johnson, J., & Annamalai, D. (2016, December). Physical 
 modeling and control of self-balancing platform on a cart. In 2016 International Conference 
@@ -32,8 +39,4 @@ control system. In IOP Conference Series: Materials Science and Engineering (Vol
 1, p. 012004). IOP Publishing.
 3. BRANDMAIER, S., & RAMSDEN, D. (2020). PID Regulated Balancing Cube
 
-## Proteus Simulation
 
-## PID Controller
-A PID controller is an instrument used in industrial control applications to regulate temperature, flow, pressure, speed and other process variables. PID (proportional integral derivative) controllers use a control loop feedback mechanism to control process variables and are the most accurate and stable controller.
-## Project Overview
